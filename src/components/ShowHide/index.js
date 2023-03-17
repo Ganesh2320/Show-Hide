@@ -29,7 +29,7 @@ class ShowHide extends Component {
             >
               Show/Hide Firstname
             </button>
-            {showFirstName && <p className="name">Ganesh</p>}
+            {showFirstName && <p className="name">Joe</p>}
           </div>
           <div className="name-container">
             <button
@@ -39,7 +39,7 @@ class ShowHide extends Component {
             >
               Show/Hide Lastname
             </button>
-            {showLastName && <p className="name">Rayapu</p>}
+            {showLastName && <p className="name">Jonas</p>}
           </div>
         </div>
       </div>
